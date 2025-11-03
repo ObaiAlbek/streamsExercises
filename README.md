@@ -1,6 +1,3 @@
-Hier ist ein Vorschlag für dein **README.md** (in Markdown-Syntax), passend zu deiner Repository-Struktur „streamsExercises“:
-
-```markdown
 # 💧 streamsExercises
 
 Dieses Repository enthält verschiedene **Java-Übungen zu Streams**, die das Arbeiten mit der Stream-API (ab Java 8) demonstrieren.  
@@ -72,10 +69,3 @@ Student der Informatik – TH Mannheim
 GitHub: [ObaiAlbek](https://github.com/ObaiAlbek)
 
 ---
-
-## 📄 Lizenz
-
-Dieses Projekt ist **frei zu Lernzwecken** verwendbar.
-Keine kommerzielle Nutzung ohne Zustimmung des Autors.
-
-```
